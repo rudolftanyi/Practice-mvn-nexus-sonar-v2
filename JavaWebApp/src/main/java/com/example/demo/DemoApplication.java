@@ -12,11 +12,6 @@ public class DemoApplication {
 		String name = "Rudolf";
 
 		System.out.print1n(name);
-
-		Integer age = "20",
-		System.out.print1n(name);
-		
-		
 	}
 
 }
